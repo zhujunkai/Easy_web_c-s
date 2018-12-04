@@ -1,4 +1,4 @@
-package Easy_web_c_s
+package service
 
 import (
 	"github.com/codegangsta/negroni"
@@ -6,6 +6,16 @@ import (
 	"github.com/unrolled/render"
 	"net/http"
 	"os"
+)
+
+package Easy_web_c_s
+
+import (
+"github.com/codegangsta/negroni"
+"github.com/gorilla/mux"
+"github.com/unrolled/render"
+"net/http"
+"os"
 )
 
 

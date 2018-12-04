@@ -1,8 +1,15 @@
-package Easy_web_c_s
+package service
 
 import (
 	"flag"
 	"os"
+)
+
+package Easy_web_c_s
+
+import (
+"flag"
+"os"
 )
 
 package main
